@@ -1,14 +1,23 @@
 # Site settings
+name: Theo Moss
+author: Theo Moss
 title: The Compass Points East
-email: 
-
+subtitle: 
+description: "Survival, discovery, and mystery"
+slogan: 
 keywords: webcomic, comic
-description: > # this means to ignore newlines until "baseurl:"
-  A webcomic theme for jekyll.
+language: 'en'
 
+url: https://tmoss4.github.io
+baseurl: /tcpe
+urlimg: 
 
-baseurl: https://tmoss4.github.io/comical-jekyll-theme
-url: / #Leave this, change the baseurl. ...Hm, I'm gonna need to work at this
+github: http://www.github.com/tmoss4
+facebook: https://www.facebook.com/theophilus.moss
+linkedin: https://www.linkedin.com/in/tmoss4
+email: moss.theophilus@gmail.com
+location: 
+disqus: theophilusmoss 
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, image_optim_cache.yml]
